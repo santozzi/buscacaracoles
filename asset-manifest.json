@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/buscacaracoles/static/css/main.e2ac30a0.css",
+    "main.js": "/buscacaracoles/static/js/main.4b4e924b.js",
+    "static/js/787.0627b4fe.chunk.js": "/buscacaracoles/static/js/787.0627b4fe.chunk.js",
+    "index.html": "/buscacaracoles/index.html",
+    "main.e2ac30a0.css.map": "/buscacaracoles/static/css/main.e2ac30a0.css.map",
+    "main.4b4e924b.js.map": "/buscacaracoles/static/js/main.4b4e924b.js.map",
+    "787.0627b4fe.chunk.js.map": "/buscacaracoles/static/js/787.0627b4fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2ac30a0.css",
+    "static/js/main.4b4e924b.js"
+  ]
+}
