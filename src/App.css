@@ -1,7 +1,27 @@
+body{
+  background-color: #000;
+  color: white;
+}
 .App {
   text-align: center;
 }
-
+.busca-caracores-button-reset{
+  margin:'10px';
+  padding:'10px';
+  width: '80px';
+  height:'80px';
+  background-color: 'green';
+  color: 'white';
+  box-shadow: 'none';
+  border:'0';
+  font-size:'15px';
+  font-weight:'800';
+  border-radius: '50%';
+  }
+  .busca-caracores-button-reset:hover{
+      background-color: 'white';
+  color: 'green';
+  }
 .App-logo {
   height: 40vmin;
   pointer-events: none;
